@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/XtendedAnalysis/.vs/XtendedAnalysis
+/XtendedAnalysis/XtendedAnalysis/obj
+/XtendedAnalysis/XtendedAnalysis/bin/Debug/net8.0
